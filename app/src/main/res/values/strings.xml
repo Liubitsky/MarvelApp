@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MarvelApp</string>
+    <string name="marvel_copyright">Data provided by Marvel. © 2020 MARVEL</string>
+    <string name="no_description">No description</string>
+    <string name="description">Description</string>
+    <string name="comics">Comics</string>
+    <string name="series">Series</string>
+    <string name="stories">Stories</string>
+    <string name="events">Events</string>
+    <string name="no_data">No data</string>
+</resources>
